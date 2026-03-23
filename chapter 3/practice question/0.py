@@ -1,0 +1,5 @@
+'''Check if a number exists in a list.'''
+'''Find the maximum number in a list (without max()).'''
+'''Find the second largest number in a list.'''
+'''Rotate a list to the right by 1 position. Example: [1,2,3,4] → [4,1,2,3]'''
+'''Sort a list without using sort() (basic logic — try bubble sort idea).'''
