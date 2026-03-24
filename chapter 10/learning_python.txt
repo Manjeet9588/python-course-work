@@ -1,0 +1,4 @@
+﻿I learn in this chapter Python :
+- how we read a file
+- how make a list of lines frome a file
+I love programming.
