@@ -1,0 +1,1 @@
+'''Count lines in file'''

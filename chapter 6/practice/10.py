@@ -1,0 +1,1 @@
+'''Store marks and calculate average'''

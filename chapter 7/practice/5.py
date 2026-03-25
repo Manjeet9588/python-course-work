@@ -1,0 +1,1 @@
+'''Sum numbers until 0 entered'''

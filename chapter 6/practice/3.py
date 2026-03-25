@@ -1,0 +1,1 @@
+'''Invert dictionary (values→keys)'''

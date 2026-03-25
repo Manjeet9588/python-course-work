@@ -1,0 +1,1 @@
+'''Input list until stop word'''

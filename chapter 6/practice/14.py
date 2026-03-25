@@ -1,0 +1,1 @@
+'''JSON-like nested dict structure'''
