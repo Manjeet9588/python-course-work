@@ -1,0 +1,68 @@
+{
+    "Manjeet": {
+        "Name": "Manjeet",
+        "Age": 20,
+        "Class": "Btech CSE",
+        "Address": "Narnaul"
+    },
+    "Arjun": {
+        "Name": "Arjun",
+        "Age": 21,
+        "Class": "Btech IT",
+        "Address": "Hyderabad"
+    },
+    "Priya": {
+        "Name": "Priya",
+        "Age": 19,
+        "Class": "BSc Physics",
+        "Address": "Chennai"
+    },
+    "Rohan": {
+        "Name": "Rohan",
+        "Age": 22,
+        "Class": "MBA",
+        "Address": "Mumbai"
+    },
+    "Sara": {
+        "Name": "Sara",
+        "Age": 20,
+        "Class": "BCom",
+        "Address": "Delhi"
+    },
+    "Vikram": {
+        "Name": "Vikram",
+        "Age": 21,
+        "Class": "Btech Mechanical",
+        "Address": "Pune"
+    },
+    "Ananya": {
+        "Name": "Ananya",
+        "Age": 18,
+        "Class": "MBBS",
+        "Address": "Bangalore"
+    },
+    "Kabir": {
+        "Name": "Kabir",
+        "Age": 23,
+        "Class": "Mtech Data Science",
+        "Address": "Kolkata"
+    },
+    "Ishani": {
+        "Name": "Ishani",
+        "Age": 20,
+        "Class": "BArch",
+        "Address": "Jaipur"
+    },
+    "Aditya": {
+        "Name": "Aditya",
+        "Age": 21,
+        "Class": "BCA",
+        "Address": "Lucknow"
+    },
+    "Meera": {
+        "Name": "Meera",
+        "Age": 19,
+        "Class": "BA English",
+        "Address": "Chandigarh"
+    }
+}

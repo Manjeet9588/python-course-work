@@ -1,1 +1,0 @@
-'''Create student record system'''
